@@ -1,8 +1,8 @@
 {
-"suggestions" = [
-		{ "name": 'Brett', "message": 'Message 1 from here',"keepUpdated":false,"email":"brett@github.com" },
-		{ "name": 'Brett', "message": 'Message 2 from here',"keepUpdated":false,"email":"brett@github.com" },
-		{ "name": 'Brett', "message": 'Message 3 from here',"keepUpdated":false,"email":"brett@github.com" },
-		{ "name": 'Brett', "message": 'Message 4 from here',"keepUpdated":false,"email":"brett@github.com" }
+"suggestions" : [
+		{ "name": "Brett", "message": "Message 1 from here","keepUpdated":false,"email":"brett@github.com" },
+		{ "name": "Brett", "message": "Message 2 from here","keepUpdated":false,"email":"brett@github.com" },
+		{ "name": "Brett", "message": "Message 3 from here","keepUpdated":false,"email":"brett@github.com" },
+		{ "name": "Brett", "message": "Message 4 from here","keepUpdated":false,"email":"brett@github.com" }
 	]
 }
