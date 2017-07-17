@@ -1,8 +1,0 @@
-{
-"suggestions" : [
-		{ "name": "Brett", "message": "Message 1 from github","keepUpdated":true,"email":"brett@github.com" },
-		{ "name": "Brett", "message": "Message 2 from git","keepUpdated":false,"email":"brett@github.com" },
-		{ "name": "Brett", "message": "Message 3 from github","keepUpdated":true,"email":"brett@github.com" },
-		{ "name": "Brett", "message": "Message 4 from githubs","keepUpdated":false,"email":"brett@github.com" }
-	]
-}
